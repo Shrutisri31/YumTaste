@@ -1,4 +1,4 @@
-# YumTaste Food Ordering app using Node-express-mongo-socket.io
+# YumTaste Food Ordering app using Node-express-mongo
 
 
 ## Installation 
